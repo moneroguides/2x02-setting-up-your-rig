@@ -17,8 +17,6 @@ As [Crypt0 Bear](https://youtube.com/watch?v=8xLbMQBkWhw) says 'Every hashrate, 
 
 Privacy is fundamental. [Monero means money](https://en.wiktionary.org/wiki/Monero).
 
-<hr/>
-
 ### Setting up your Software
 
 There are multiple ways to start mining Monero today. As a more advanced guide to our [quick start guide](https://moneroguides.org/tutorials/00x03-mining-monero-p2pool-quick-start-guide/) we're going to look at setting up the software in a fundamental way and as something you can set up as a (service)[https://moneroguides.org/tutorials/00x02-turning-your-monero-node-into-a-service/] as we have in previous videos.
@@ -40,8 +38,6 @@ Release notes can be found here at the top. They detail the changes made between
 Each binary is tailored to a different operating system; make sure you download the correct version. For demonstration purposes I'm using Ubuntu, Mac and Windows users should be able to follow along easily if you've already [gotten to grips with Monero](https://www.youtube.com/watch?v=AKB4w-L5ECA&list=PLcyDcJ4lpDVBpsnI-fbkB-7O4M63VIA2g).
 
 A quick command in the terminal helps us identify our OS version. Windows users simply need the 'win64' version and Mac users only need to know the hardware architecture. 
-
-<hr/>
 
 ### Setting up your Hardware
 
