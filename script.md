@@ -1,6 +1,7 @@
 # Setting Up Your Rig
 
 <hr/>
+
 ### Intro
 
 In the last episode we took an over view of mining and covered a few important things to think about before setting off.
@@ -17,6 +18,7 @@ As [Crypt0 Bear](https://youtube.com/watch?v=8xLbMQBkWhw) says 'Every hashrate, 
 Privacy is fundamental. [Monero means money](https://en.wiktionary.org/wiki/Monero).
 
 <hr/>
+
 ### Setting up your Software
 
 There are multiple ways to start mining Monero today. As a more advanced guide to our [quick start guide](https://moneroguides.org/tutorials/00x03-mining-monero-p2pool-quick-start-guide/) we're going to look at setting up the software in a fundamental way and as something you can set up as a (service)[https://moneroguides.org/tutorials/00x02-turning-your-monero-node-into-a-service/] as we have in previous videos.
@@ -40,6 +42,7 @@ Each binary is tailored to a different operating system; make sure you download 
 A quick command in the terminal helps us identify our OS version. Windows users simply need the 'win64' version and Mac users only need to know the hardware architecture. 
 
 <hr/>
+
 ### Setting up your Hardware
 
 There are plenty of guides out there for how under-volt your CPU and modify your memory timings so we won't go into much detail on this topic. That being said, we do have some handy tips and hints for you to start with.
